@@ -33,8 +33,7 @@ header{height: 100vh;}
 .headerwrap:hover ~ .bg{height: 300px;}
 .headerwrap:hover{overflow:visible; height: 300px;}
 .headerwrap:hover .sub{opacity: 1;}
-
-.headerwrap2{width: 1320px; margin: 0 auto; padding: 384px 0 100px;}
+.headerwrap2{position: absolute;width: 1320px; margin: 0 auto; left: 10% ; top:60%;}
 .headerwrap2 img{margin-bottom: 20px;}
 .headerwrap2 span{font-size: 36px;color: #fff; margin-right: 20px; font-weight: bold;}
 
